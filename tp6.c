@@ -19,8 +19,8 @@ int main() {
 	int radio;
 	
 	printf("Seleccione la figura que desea calcular.\n");
-	printf("1 - Rect·ngulo.\n");
-	printf("2 - CÌrculo.\n");
+	printf("1 - Rect√°ngulo.\n");
+	printf("2 - C√≠rculo.\n");
 	printf("Opcion seleccionada: ");
 	scanf("%d", &opcion);
 	
@@ -105,19 +105,3 @@ void imprimirResultado2 ( float area, float perimetro){
 	printf("El area del circulo es: %.2f\n",area);
 	printf("El perimetro del circulo es: %.2f\n",perimetro);
 }
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
